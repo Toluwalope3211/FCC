@@ -1,0 +1,16 @@
+.page{
+      background-color:#1b1b32;
+      color:white;
+      padding:50px;
+    }
+    /* #description{
+      text-align:center;
+    } */
+    #submit{
+      height:3em;
+      width:12.5em;
+      background-color:#37af65;
+      border:none;
+      margin-top:20px;
+      margin-bottom:30px;
+    }
